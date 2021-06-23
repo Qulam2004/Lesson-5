@@ -1,0 +1,83 @@
+body{
+ background-image: url(Azerbaycan-Bayragi.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+}
+
+.card-title{
+    font-size: 40px;
+}
+
+.card-text{
+    font-size: 30px;
+}
+
+.form-img{
+    position: absolute;
+    top: 44.5%;
+    left: 10%;
+    border: 1px solid red;
+    width: 100px;
+    padding: 25px;
+    background-image: url(repeat-pattern-1.jpg);
+    background-repeat: no-repeat;
+    width: 252px;
+    height: 155px;
+}
+
+.form-img2{
+    position: absolute;
+    top: 41%;
+    left: 45%;
+    border: 1px solid red;
+    padding: 25px;
+    background-image: url(repeat-pattern-1.jpg);
+    background-repeat: repeat;
+    width: 700px;
+    height: 155px;
+}
+
+.p-3{
+    margin-top: 25rem;
+}
+
+.collapse .navbar-nav .nav-item .nav-link:hover{
+    color: rgb(43, 255, 0);
+}
+
+.form1{
+    position: absolute;
+    left: 11%;
+    top: 34%;
+
+}
+
+.form2{
+        position: absolute;
+        top: 41%;
+        left: 12%;
+}
+
+.form3{
+    position: absolute;
+    top: 70%;
+    left: 8%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.form4{
+    position: absolute;
+    top: 34%;
+    left: 43%;
+}
+
+.from5{
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    width: 615px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
